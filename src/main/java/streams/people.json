@@ -1,0 +1,23 @@
+[
+  {
+    "name" : "Taleb",
+    "address" : "Wieselgrensplatsen",
+    "favoritCandy" : "Turkisk peppar",
+    "age" : 22
+
+  },
+
+  {
+    "name" : "Abdi",
+    "address" : "Backvägen",
+    "favoritCandy" : "Snickers",
+    "age" : 23
+  },
+
+  {
+    "name" : "Nur",
+    "address" : "Fyrk",
+    "favoritCandy" : "Twix",
+    "age" : 24
+  }
+]
